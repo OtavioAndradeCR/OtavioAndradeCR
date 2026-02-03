@@ -56,7 +56,7 @@ Ao longo dos meus projetos, trabalhei com **diversas stacks**, desde aplicaçõe
 ## 📂 Projetos em Destaque
 
 * **DevFreela** – API REST em .NET para gestão de freelancers e projetos
-* **DSList** – Backend .NET para gerenciamento de jogos e listas
+* **DSList** – Backend JAVA para gerenciamento de jogos e listas
 * **DevTrackR (Jornada .NET)** – API para controle de tarefas e projetos
 * **Ecoleta (NLW1)** – Aplicação web fullstack para pontos de coleta
 * **Proffy (NLW2)** – Plataforma web de conexão entre professores e alunos
