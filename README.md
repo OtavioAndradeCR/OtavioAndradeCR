@@ -56,12 +56,12 @@ Ao longo dos meus projetos, trabalhei com **diversas stacks**, desde aplicaçõe
 ## 📂 Projetos em Destaque
 
 * **DevFreela** – API REST em .NET para gestão de freelancers e projetos
-🔹 **DSList** – Backend .NET para gerenciamento de jogos e listas
-🔹 **DevTrackR (Jornada .NET)** – API para controle de tarefas e projetos
-🔹 **Ecoleta (NLW1)** – Aplicação web fullstack para pontos de coleta
-🔹 **Proffy (NLW2)** – Plataforma web de conexão entre professores e alunos
-🔹 **Projeto Jogo de Xadrez** – Aplicação console em C# com foco em POO
-🔹 **Alexa Super Hero** – Skill de voz integrada à Amazon Alexa
+* **DSList** – Backend .NET para gerenciamento de jogos e listas
+* **DevTrackR (Jornada .NET)** – API para controle de tarefas e projetos
+* **Ecoleta (NLW1)** – Aplicação web fullstack para pontos de coleta
+* **Proffy (NLW2)** – Plataforma web de conexão entre professores e alunos
+* **Projeto Jogo de Xadrez** – Aplicação console em C# com foco em POO
+* **Alexa Super Hero** – Skill de voz integrada à Amazon Alexa
 
 👉 Todos os projetos estão documentados com **README claro e objetivo**, focado em leitura rápida para recrutadores.
 
