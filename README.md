@@ -2,75 +2,74 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Fullstack**, com forte foco em **Backend .NET**, experiência em **APIs, arquitetura de software e aplicações web completas**. Tenho perfil prático, voltado para resolução de problemas reais, construção de soluções bem estruturadas e código limpo.
+Sou **Desenvolvedor Backend .NET Pleno**, com forte atuação em **Arquitetura de Software**, participando da definição e evolução estrutural de sistemas.
 
-Ao longo dos meus projetos, trabalhei com **diversas stacks**, desde aplicações **console**, **APIs REST**, **sistemas web fullstack**, até **integrações com cloud e voice apps**, sempre buscando boas práticas e clareza na arquitetura.
+Trabalho com **C# e .NET (Core e Framework)** no desenvolvimento de aplicações backend, com foco em **APIs REST, microsserviços e sistemas escaláveis**, sempre priorizando organização, manutenibilidade e qualidade de código.
+
+Minha atuação vai além da implementação, envolvendo decisões sobre **estruturação de camadas, definição de padrões, separação de responsabilidades e redução de acoplamento**, aplicando conceitos como **Clean Code, SOLID e Design Patterns** no dia a dia.
+
+Atualmente, estou aprofundando minha evolução em **Arquitetura de Software no ecossistema .NET**, com foco em construção de sistemas robustos e sustentáveis.
 
 ---
 
 ## 🧠 Principais Competências Técnicas
 
-### 🔧 Backend
+### 🔧 Backend .NET
 
-* C# / .NET / .NET Core
-* ASP.NET Web API / MVC
+* C# / .NET / .NET Core / .NET 8
+* ASP.NET Core / ASP.NET MVC
 * APIs REST
 * WCF
 * Entity Framework / Dapper
-* Node.js / Express
-* Java / Spring Boot
 
-### 🧱 Arquitetura & Boas Práticas
+### 🧱 Arquitetura & Engenharia de Software
 
 * Arquitetura em Camadas
-* Princípios SOLID
+* Microsserviços
 * Clean Code
-* POO (Programação Orientada a Objetos)
+* Princípios SOLID
 * Design Patterns
-* Microsserviços (conceitos)
+* Baixo acoplamento e alta coesão
 
 ### 🗄️ Banco de Dados
 
 * SQL Server
-* PostgreSQL
-* SQLite
 * Oracle
+* PostgreSQL
 * Modelagem de dados
-* Queries e otimização
+* Queries e otimização de performance
 
-### 🌐 Frontend
+### ⚙️ DevOps & Qualidade
 
-* HTML5 / CSS3
-* JavaScript
-* React (conceitos e prática)
-
-### ☁️ Cloud & Outros
-
-* Azure (App Service, APIs)
-* AWS Lambda (conceitos)
-* Alexa Skills (Voice Apps)
+* Docker
+* CI/CD
 * Git / GitHub
+* Testes Unitários
+* DevSecOps (conceitos e prática)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-* **DevFreela** – API REST em .NET para gestão de freelancers e projetos
-* **DSList** – Backend JAVA para gerenciamento de jogos e listas
-* **DevTrackR (Jornada .NET)** – API para controle de tarefas e projetos
-* **Ecoleta (NLW1)** – Aplicação web fullstack para pontos de coleta
-* **Proffy (NLW2)** – Plataforma web de conexão entre professores e alunos
-* **Projeto Jogo de Xadrez** – Aplicação console em C# com foco em POO
-* **Alexa Super Hero** – Skill de voz integrada à Amazon Alexa
+* **DevFreela** – API REST em .NET para gestão de freelancers e projetos  
+* **DevTrackR** – API para controle de tarefas com foco em organização e arquitetura  
+* **Clean Architecture .NET (em evolução)** – Projeto focado em boas práticas arquiteturais  
+* **Microsserviços .NET (em construção)** – Estrutura baseada em serviços desacoplados  
 
-👉 Todos os projetos estão documentados com **README claro e objetivo**, focado em leitura rápida para recrutadores.
+👉 Os projetos deste repositório têm como foco demonstrar **organização arquitetural, boas práticas e evolução técnica no ecossistema .NET**.
 
 ---
 
 ## 🎯 O que você encontra neste GitHub
 
-* Projetos backend e fullstack
-* Código organizado e documentado
-* Uso de boas práticas de arquitetura
-* Aplicações reais e didáticas
-* Evolução constante como desenvolvedor
+* Projetos backend com foco em .NET
+* Aplicação de conceitos de arquitetura de software
+* Código organizado e de fácil manutenção
+* Boas práticas aplicadas no dia a dia
+* Evolução contínua com foco em sistemas corporativos
+
+---
+
+## 📈 Objetivo
+
+Evoluir continuamente na área de **Arquitetura de Software**, atuando na construção de sistemas escaláveis, bem estruturados e preparados para ambientes corporativos de alta complexidade.
