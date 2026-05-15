@@ -16,7 +16,7 @@ Atualmente, estou aprofundando minha evolução em **Arquitetura de Software no 
 
 ### 🔧 Backend .NET
 
-* C# / .NET / .NET Core / .NET 8
+* C# / .NET / .NET Core
 * ASP.NET Core / ASP.NET MVC
 * APIs REST
 * WCF
