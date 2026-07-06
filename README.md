@@ -2,74 +2,96 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Backend .NET Pleno**, com forte atuação em **Arquitetura de Software**, participando da definição e evolução estrutural de sistemas.
+Sou **Desenvolvedor Backend .NET Pleno**, com experiência no desenvolvimento de sistemas corporativos utilizando **C# e .NET (Framework e .NET Core)**.
 
-Trabalho com **C# e .NET (Core e Framework)** no desenvolvimento de aplicações backend, com foco em **APIs REST, microsserviços e sistemas escaláveis**, sempre priorizando organização, manutenibilidade e qualidade de código.
+Atuo no desenvolvimento de aplicações backend, APIs REST e arquiteturas baseadas em microsserviços, participando da evolução técnica dos projetos por meio da definição de padrões, organização estrutural das aplicações e adoção de boas práticas de engenharia de software.
 
-Minha atuação vai além da implementação, envolvendo decisões sobre **estruturação de camadas, definição de padrões, separação de responsabilidades e redução de acoplamento**, aplicando conceitos como **Clean Code, SOLID e Design Patterns** no dia a dia.
+Tenho como foco a construção de soluções escaláveis, manuteníveis e alinhadas às necessidades do negócio, aplicando conceitos de **Arquitetura de Software**, **Domain-Driven Design (DDD)**, **Clean Architecture**, **Clean Code**, **SOLID** e **Design Patterns**.
 
-Atualmente, estou aprofundando minha evolução em **Arquitetura de Software no ecossistema .NET**, com foco em construção de sistemas robustos e sustentáveis.
+Atualmente curso **Pós-Tech em Arquitetura de Sistemas .NET**, aprofundando conhecimentos em arquitetura corporativa, sistemas distribuídos e desenvolvimento de soluções modernas no ecossistema Microsoft.
 
 ---
 
-## 🧠 Principais Competências Técnicas
+# 🛠️ Stack Principal
 
-### 🔧 Backend .NET
+### 🔧 Backend
 
-* C# / .NET / .NET Core
-* ASP.NET Core / ASP.NET MVC
-* APIs REST
-* WCF
-* Entity Framework / Dapper
+- C#
+- .NET Framework
+- .NET Core
+- ASP.NET Core
+- ASP.NET MVC
+- Entity Framework
+- Dapper
+- WCF
+- APIs REST
 
-### 🧱 Arquitetura & Engenharia de Software
+### 🧱 Arquitetura
 
-* Arquitetura em Camadas
-* Microsserviços
-* Clean Code
-* Princípios SOLID
-* Design Patterns
-* Baixo acoplamento e alta coesão
+- Arquitetura de Software
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Arquitetura em Camadas
+- Microsserviços
+- Clean Code
+- SOLID
+- Design Patterns
 
 ### 🗄️ Banco de Dados
 
-* SQL Server
-* Oracle
-* PostgreSQL
-* Modelagem de dados
-* Queries e otimização de performance
+- SQL Server
+- Oracle
+- PostgreSQL
+- Modelagem de Dados
+- Consultas SQL
+- Otimização de Performance
 
 ### ⚙️ DevOps & Qualidade
 
-* Docker
-* CI/CD
-* Git / GitHub
-* Testes Unitários
-* DevSecOps (conceitos e prática)
+- Docker
+- CI/CD
+- Git
+- Azure
+- Testes Unitários
+- DevSecOps
 
 ---
 
-## 📂 Projetos em Destaque
+# ☕ Stack Complementar
 
-* **DevFreela** – API REST em .NET para gestão de freelancers e projetos  
-* **DevTrackR** – API para controle de tarefas com foco em organização e arquitetura  
-* **Clean Architecture .NET (em evolução)** – Projeto focado em boas práticas arquiteturais  
-* **Microsserviços .NET (em construção)** – Estrutura baseada em serviços desacoplados  
+### Backend Java
 
-👉 Os projetos deste repositório têm como foco demonstrar **organização arquitetural, boas práticas e evolução técnica no ecossistema .NET**.
-
----
-
-## 🎯 O que você encontra neste GitHub
-
-* Projetos backend com foco em .NET
-* Aplicação de conceitos de arquitetura de software
-* Código organizado e de fácil manutenção
-* Boas práticas aplicadas no dia a dia
-* Evolução contínua com foco em sistemas corporativos
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Maven
 
 ---
 
-## 📈 Objetivo
+# 📂 Projetos em Destaque
 
-Evoluir continuamente na área de **Arquitetura de Software**, atuando na construção de sistemas escaláveis, bem estruturados e preparados para ambientes corporativos de alta complexidade.
+Este repositório reúne projetos voltados ao desenvolvimento backend e à arquitetura de software utilizando o ecossistema .NET.
+
+Os projetos demonstram a aplicação prática de conceitos como:
+
+- APIs REST
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microsserviços
+- Arquitetura em Camadas
+- SOLID
+- Design Patterns
+- Testes Unitários
+- Docker
+- CI/CD
+
+Além de projetos completos, este GitHub também documenta minha evolução técnica em arquitetura de software, padrões de projeto e desenvolvimento de aplicações corporativas.
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções robustas utilizando o ecossistema .NET e evoluir continuamente em **Arquitetura de Software**, contribuindo para sistemas corporativos escaláveis, distribuídos e de alta disponibilidade.
+
+---
