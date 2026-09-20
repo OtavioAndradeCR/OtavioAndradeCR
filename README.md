@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Backend .NET Pleno**, com experiência no desenvolvimento de sistemas corporativos utilizando **C# e .NET (Framework, .NET Core e .NET 8)**.
+Sou **Desenvolvedor Backend .NET Pleno**, com experiência no desenvolvimento de sistemas corporativos utilizando **C# e .NET (Framework, .NET Core)**.
 
 Atuo no desenvolvimento e evolução de **APIs REST, microsserviços e aplicações corporativas**, participando também de decisões relacionadas à **Arquitetura de Software**, definição de padrões técnicos, organização estrutural das aplicações e aplicação de boas práticas de engenharia de software.
 
@@ -21,7 +21,6 @@ Atualmente curso **Pós-Tech em Arquitetura de Sistemas .NET**, aprofundando con
 - C#
 - .NET Framework
 - .NET Core
-- .NET 8
 - ASP.NET Core
 - ASP.NET MVC
 - Entity Framework
