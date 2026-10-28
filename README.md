@@ -20,7 +20,6 @@ Atualmente curso **Pós-Graduação em Arquitetura de Sistemas .NET**, aprofunda
 - C#
 - .NET Framework
 - .NET Core
-- .NET 8
 - ASP.NET Core
 - ASP.NET MVC
 - Entity Framework
