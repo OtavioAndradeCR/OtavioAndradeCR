@@ -22,6 +22,11 @@ Atualmente curso Pós-Graduação em Arquitetura de Sistemas .NET e sigo aprofun
 - React, HTML e CSS
 - Integração de interfaces com APIs REST
 
+**Cloud e arquitetura distribuída**
+- AWS Lambda, Amazon SQS e DynamoDB
+- Arquitetura orientada a eventos e processamento assíncrono
+- Integração entre serviços e mensageria
+
 **Arquitetura e engenharia de software**
 - Clean Architecture, Clean Code e DDD
 - SOLID, Design Patterns, Repository Pattern e Mediator
@@ -30,6 +35,7 @@ Atualmente curso Pós-Graduação em Arquitetura de Sistemas .NET e sigo aprofun
 **Banco de dados**
 - SQL Server, Oracle e PostgreSQL
 - Modelagem de dados e consultas SQL
+- DynamoDB
 
 **Qualidade e entrega**
 - Testes unitários com xUnit e Moq
@@ -45,6 +51,12 @@ Atualmente curso Pós-Graduação em Arquitetura de Sistemas .NET e sigo aprofun
 Aplicação backend para gerenciamento de projetos freelance, propostas e fluxos relacionados. Projeto organizado em camadas, com foco em regras de negócio, testes automatizados e boas práticas de desenvolvimento.
 
 **Tecnologias:** C#, ASP.NET Core, Entity Framework Core e SQL Server.
+
+### [FCG.NotificationsAPI](https://github.com/OtavioAndradeCR/FCG.NotificationsAPI)
+
+Microsserviço de notificações da plataforma FIAP Cloud Games, executado em AWS Lambda e acionado por eventos recebidos via Amazon SQS. Processa eventos de criação de usuários e pagamentos aprovados, persiste dados no DynamoDB e envia notificações por e-mail. O projeto contempla processamento assíncrono, idempotência e fila de mensagens não processadas (DLQ).
+
+**Tecnologias:** .NET 10, AWS Lambda, Amazon SQS, DynamoDB e SMTP.
 
 ### [DSList](https://github.com/OtavioAndradeCR/dslist)
 
