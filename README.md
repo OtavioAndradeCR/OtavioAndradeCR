@@ -46,29 +46,29 @@ Atualmente curso Pós-Graduação em Arquitetura de Sistemas .NET e sigo aprofun
 
 ## Projetos em destaque
 
-### [DevFreela](https://github.com/OtavioAndradeCR/DevFreela)
-
-Aplicação backend para gerenciamento de projetos freelance, propostas e fluxos relacionados. Projeto organizado em camadas, com foco em regras de negócio, testes automatizados e boas práticas de desenvolvimento.
-
-**Tecnologias:** C#, ASP.NET Core, Entity Framework Core e SQL Server.
-
 ### [FCG.NotificationsAPI](https://github.com/OtavioAndradeCR/FCG.NotificationsAPI)
 
 Microsserviço de notificações da plataforma FIAP Cloud Games, executado em AWS Lambda e acionado por eventos recebidos via Amazon SQS. Processa eventos de criação de usuários e pagamentos aprovados, persiste dados no DynamoDB e envia notificações por e-mail. O projeto contempla processamento assíncrono, idempotência e fila de mensagens não processadas (DLQ).
 
 **Tecnologias:** .NET 10, AWS Lambda, Amazon SQS, DynamoDB e SMTP.
 
-### [DSList](https://github.com/OtavioAndradeCR/dslist)
+### [DevFreela](https://github.com/OtavioAndradeCR/DevFreela)
 
-API REST para gerenciamento e organização de listas de jogos, com operações para consulta, ordenação e movimentação de jogos entre listas.
+Aplicação backend para gerenciamento de projetos freelance, propostas e fluxos relacionados. Projeto organizado em camadas, com foco em regras de negócio, testes automatizados e boas práticas de desenvolvimento.
 
-**Tecnologias:** Java 21, Spring Boot, Spring Data JPA, Hibernate, Maven, H2 e PostgreSQL.
+**Tecnologias:** C#, ASP.NET Core, Entity Framework Core e SQL Server.
 
 ### [MVP — Frontend Avançado](https://github.com/OtavioAndradeCR/MVP_Otavio_Frontend_Avancado)
 
 Aplicação demonstrativa de e-commerce desenvolvida para explorar recursos do ecossistema React. Inclui catálogo, busca e filtros, carrinho, fluxo demonstrativo de checkout e área administrativa. Autenticação e dados são simulados no navegador; não é uma plataforma de comércio eletrônico pronta para produção.
 
 **Tecnologias:** React, TypeScript, Vite, Tailwind CSS e Express.
+
+### [DSList](https://github.com/OtavioAndradeCR/dslist)
+
+API REST para gerenciamento e organização de listas de jogos, com operações para consulta, ordenação e movimentação de jogos entre listas.
+
+**Tecnologias:** Java 21, Spring Boot, Spring Data JPA, Hibernate, Maven, H2 e PostgreSQL.
 
 ---
 
